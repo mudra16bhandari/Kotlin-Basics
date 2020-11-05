@@ -1,4 +1,4 @@
-
+package `Day 1`
 fun main(args:Array<String>){
 
     var variable1:String? // variable can have a null value

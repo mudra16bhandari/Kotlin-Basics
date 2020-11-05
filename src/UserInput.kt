@@ -1,4 +1,4 @@
-
+package `Day 1`
 fun main(args:Array<String>){
 
     print("Enter name: ")

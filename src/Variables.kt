@@ -1,3 +1,5 @@
+package `Day 1`
+
 fun main(args: Array<String>){
     var variable1 = 3 // automatically takes variable1 as integer
     var variable2 = "Mudra" //automatically takes variable2 as String

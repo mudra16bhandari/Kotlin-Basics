@@ -1,3 +1,5 @@
+package `Day 1`
+
 fun main(args: Array<String>) {  // fun => function
     print("Welcome to Kotlin! ") //prints the next statement in the same line
     println("Hi Mudra") //prints the next statement in the new line
